@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Covered by Lewis | Smarter Health Coverage</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9fafa;
+      color: #1e1e1e;
+    }
+    header {
+      background: #1a73e8;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-size: 1.1rem;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #1a73e8;
+    }
+    .cta {
+      background: #eaf1fb;
+      padding: 2rem;
+      margin: 2rem 0;
+      text-align: center;
+      border-left: 5px solid #1a73e8;
+    }
+    form input, form textarea {
+      width: 100%;
+      padding: 0.75rem;
+      margin-bottom: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    form button {
+      background: #1a73e8;
+      color: white;
+      border: none;
+      padding: 1rem 2rem;
+      cursor: pointer;
+      border-radius: 4px;
+      font-size: 1rem;
+    }
+    footer {
+      background: #1a73e8;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+    a {
+      color: #1a73e8;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Covered by Lewis</h1>
+    <p>Smarter coverage. Lower cost. Real answers.</p>
+  </header>
+
+  <section id="story">
+    <h2>My Story</h2>
+    <p>I'm Matt Lewis — an independent agent helping individuals, families, and business owners find affordable, quality health coverage without the red tape. If you’re paying out of pocket or tired of government plan limitations, I’ve got options worth seeing.</p>
+  </section>
+
+  <section id="services">
+    <h2>Services</h2>
+    <ul>
+      <li>Private PPO Health Plans</li>
+      <li>ACA Marketplace Assistance</li>
+      <li>Self-Employed Coverage Options</li>
+      <li>Family & Child Coverage</li>
+      <li>Supplemental: Accident, De
